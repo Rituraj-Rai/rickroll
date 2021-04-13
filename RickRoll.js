@@ -33,7 +33,7 @@ var rickroll = function (opt) {
   };
   console.log("[RickRoll.js] Now listening to some click event....");
 };
-rickroll.video = "https://yonle.github.io/RickRoll.js/vid.mp4";
+rickroll.video = "https://rituraj-rai.github.io/R007/Rick%20Rolled%20(Short%20Version).mp4";
 // rickroll.video = "https://github.com/Rituraj-Rai/Rituraj-Rai/blob/main/Rick_Astley_Never_Gonna_Give_You_Up.mp4";
 rickroll.showup = function () {
   console.log("[RickRoll.js] rickroll.showup() called.");
