@@ -4,7 +4,7 @@ document.querySelector("button").addEventListener("click", function () {
   count.innerHTML = "<h2>CountDown..</h2>";
   const num = document.createElement("h2");
   count.append(num);
-  let i = 30;
+  let i = 11;
   const id = setInterval(() => {
     i--;
     num.innerText = i.toString();
