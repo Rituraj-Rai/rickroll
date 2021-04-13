@@ -13,5 +13,5 @@ document.querySelector("button").addEventListener("click", function () {
       clearInterval(id);
     }
   }, 1000);
-  document.body.append(count);
+  document.getElementsByClassName("container")[0].append(count);
 });
