@@ -1,4 +1,2 @@
 # rickroll
-ok
-Play
-Meme
+Testing repo for rickroll package.
